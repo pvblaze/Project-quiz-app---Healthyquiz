@@ -1,0 +1,80 @@
+<resources>
+
+    <!-- Name of the app, text in the top label -->
+    <string name="app_name">The healthy quiz app</string>
+
+    <!-- The first activity -->
+    <string name="welcome">This application is a quiz with 5 healthy questions.\nYou will definitely learn some cool facts. \nGood luck and have fun\n and ofcourse, stay healthy! :)</string>
+    <string name="letsgo">Lets Go!</string>
+
+    <!-- The second activity "The Questions"-->
+
+    <!-- The first question -->
+
+    <string name="first_question">1. How many minutes of walking a day is good for your health?</string>
+    <!-- First RadioGroup buttons -->
+    <string name="first_radio_button">60 minutes</string>
+    <string name="second_radio_button">30 minutes</string>
+
+    <!-- The second question -->
+    <string name="second_question">2. What is Zink good for?</string>
+    <!-- Second RadioGroup buttons -->
+    <string name="third_radio_button">Immunity, growth and fertility</string>
+    <string name="fourth_radio_button">Teeth, eyes and bones</string>
+
+    <!-- The third question -->
+    <string name="third_question">3. Which vegetablejuice reduces oxygen consumption and improves athletic performance?</string>
+    <!-- Third RadioGroup buttons -->
+    <string name="fifth_radio_button">Guavajuice</string>
+    <string name="sixth_radio_button">Beetjuice</string>
+
+    <!-- The fourth question (Checkboxes) -->
+    <string name="fourth_question">4. From where can you get vitamin D? (2 checkboxes are correct)</string>
+    <!-- The four checkboxes -->
+    <string name="first_checkbox_question">Sunlight</string>
+    <string name="second_checkbox_question">Carrot</string>
+    <string name="third_checkbox_question">Certain Mushrooms</string>
+    <string name="fourth_checkbox_question">Oranges</string>
+
+    <!-- The fifth question -->
+    <string name="fifth_question">5. What do you get from hugs? </string>
+    <string name="seventh_radio_button">Vitamin K, Estrogen and Pleasure </string>
+    <string name="eight_radio_button">Dopamine, Serotonin and Oxytocin </string>
+
+    <!-- The sixth question -->
+    <string name="sixth_question">6. Which berry boost your energy, strengthen bones, and is diabetes and heart disease fighter?</string>
+    <!-- Name the game -->
+    <string name="name_berry">Name of the berry</string>
+
+    <!-- Buttons -->
+    <string name="deckard">Push me</string>
+    <string name="submit">Submit</string>
+
+
+    <!-- The third activity -->
+
+    <!-- Thanks -->
+    <string name="thanks">Thanks for you participation:</string>
+
+    <!-- Your score -->
+    <string name="yourscore">Your score:</string>
+    <string name="score">0/100</string>
+
+    <!-- The right answers -->
+    <string name="therights">1. 30 minutes of walking a day is the ideal to keep you healthy\n\n2. Zink is good for immunity, growth and fertility and also many other positive things.\n\n3. Beetjuice decreases the oxygen consumption up to 20% \n\n4.
+        You get vitamin D from sunlight and certain mushrooms.\n\n5. You get Dopamine, Serotonin and Oxytocin from hugs \n\n6. Blueberry is a the right answer and is classified as a superberry</string>
+
+    <!-- How it works -->
+    <string name="howitworks">Scoring system:</string>
+    <!-- How it works description -->
+    <string name="howit">Every right answer gives you 10 points, the checkboxes give you 25 points each for the right answers!</string>
+
+
+    <!-- The fourth activity -->
+    <string name="fourthtext_string">If you want more quizzes just type in information below</string>
+    <string name="name_string">Type in your name here</string>
+    <string name="email_string">Type in your email here</string>
+    <string name="ideas_string">Improvements or ideas for the application</string>
+    <string name="restart">restart</string>
+
+</resources>
